@@ -6,4 +6,4 @@ categories: translation
 ---
 
 A Chinese translation of [High Performance
-Browser Networking](https://hpbn.co)
+Browser Networking](https://hpbn.co), you can read it at [GitBook](https://quheng.gitbooks.io/high-performance-browser-networking/content/)
